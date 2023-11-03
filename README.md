@@ -24,5 +24,5 @@ Espaçamento interno de 20px.
 Aplique o fundo nos parágrafos de forma que
 facilite a manutenção caso mais parágrafos
 sejam adicionados no futuro.
-Crie 2 parágrafos com:
+
 
