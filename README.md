@@ -8,10 +8,10 @@ DESAFIO HTML + CSS BÁSICO
 
 Cor de fundo diferente em cada um:
 
-parágrafo de estilo padrão com fundo
+-parágrafo de estilo padrão com fundo
 cinza claro (#F5F5F5)
 
-parágrafo de estilo destacado com fundo colorido (#F0CCE2)
+-parágrafo de estilo destacado com fundo colorido (#F0CCE2)
 
 
 Espaçamento entre um parágrafo e outro de
